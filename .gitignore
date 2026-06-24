@@ -1,0 +1,46 @@
+# ===== 系統自動產生 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== PDF / 投影片 / 壓縮檔（本機保留，不推）=====
+*.pdf
+*.pptx
+*.tar
+*.tar.gz
+*.zip
+
+# ===== 編譯產物 =====
+*.o
+*.out
+*.exe
+*.a
+hw2/hw2/hw2
+hw2/hw2/validate
+hw2/test
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ===== Editor =====
+.crossnote/
+.vscode/
+
+# ===== 老師模板（非作業）=====
+hw2/hw2/
+hw3/hw3.cu
+hw3/Makefile
+hw5/hw5.cpp
+hw5/Makefile
+hw2/test.cpp
+
+# ===== Final Project 圖片（不推）=====
+wp4729510.webp
+552499.jpg
+report.html
+report.md
+b12901068.pdf
+group_26 (2).pdf
